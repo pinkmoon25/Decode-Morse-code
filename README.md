@@ -1,12 +1,16 @@
-# DECODE MORSE CODE
+### Decode Morse Code 📟
 
-A ruby program to decode morse code message
+A Ruby program designed to decode Morse code messages into readable text. This tool translates Morse code sequences into their corresponding alphanumeric characters, providing a straightforward way to interpret encoded messages.
 
-## Built With
+### Features:
+- **Morse Code Decoding:** Convert Morse code sequences into readable text.
+- **Customizable:** Easily input different Morse code messages for decoding.
+- **Clear Output:** Provides a clear and accurate translation of Morse code.
 
-- **Languages**
+### Built With:
+- Ruby
 
-  - *Ruby*
+---
 
 ### Prerequisites
 
